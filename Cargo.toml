@@ -1,5 +1,5 @@
 [package]
-name = "calculatorv3"
+name = "calculator"
 version = "0.1.0"
 edition = "2024"
 
